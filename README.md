@@ -4,15 +4,15 @@ I'm am an experienced large-scale datasets analist, developing accurate predicti
 
 # Why 
 
-[x] I'm a technology lover. I love data science, machine learning, deep learning, AI solutions and large-scale data analytics.
+. I'm a technology lover. I love data science, machine learning, deep learning, AI solutions and large-scale data analytics.
 
-[x] Keen interested to learn new technology deeply and happy to take new research challenges. I love mentoring, and coding! 
+. Keen interested to learn new technology deeply and happy to take new research challenges. I love mentoring, and coding! 
 
-[x] I advocate and ecourage reprodcuable research, hence I loving sharing my codes and implementations on GitHub!
+. I advocate and ecourage reprodcuable research, hence I loving sharing my codes and implementations on GitHub!
 
 
 # How to reach me? 
 
-[x] Email: sajal.csedu01@gmail.com
+. Email: sajal.csedu01@gmail.com
 
-[x] LinkedIn: https://www.linkedin.com/in/sajal-halder/
+. LinkedIn: https://www.linkedin.com/in/sajal-halder/
