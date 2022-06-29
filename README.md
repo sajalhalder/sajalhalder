@@ -13,6 +13,6 @@ I'm am an experienced large-scale datasets analist, developing accurate predicti
 
 # How to reach me? 
 
-. Email: sajal.csedu01@gmail.com
+. Email: sajal.csedu01@gmail.com 
 
 . LinkedIn: https://www.linkedin.com/in/sajal-halder/
