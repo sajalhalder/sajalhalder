@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm a research fellow at Cyber Security Research Group, Charles Sturt University, Australia. I have experienced in large-scale datasets analist developed accurate predictive models using advanced analytical methods, and implemented data-driven solutions to complex research and business problems. I'm passionate about data science, machine learning, knowledge graphs, and recommendations. I have completed PhD from School of Computing Technolgoy, RMIT University, Austrlaia. 
+I'm a research fellow at Cyber Security Research Group, Charles Sturt University, Australia. I have experienced in large-scale datasets analist developed accurate predictive models using advanced analytical methods, and implemented data-driven solutions to solve complex research and business problems. I'm passionate about data science, machine learning, knowledge graphs, and recommendations. I have completed PhD from School of Computing Technolgoy, RMIT University, Austrlaia. 
 
 # Why 
 
