@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm a research fellow at Charles Sturt University, Australia. I have experienced in large-scale datasets analist developed accurate predictive models using advanced analytical methods, and implemented data-driven solutions to solve complex research and business problems. I'm passionate about data science, machine learning, knowledge graphs, and recommendations. I have completed PhD from School of Computing Technology, RMIT University, Australia. 
+I'm a Post Doctoral Research Fellow at Data61, CSIRO, Australia. Before that he was Research Fellow, Charles Sturt Univesity, Wagga Wagga, NSW, Austrlaia and was a Research Assistant at RMIT University & Acciona GeoTeach, Australia. I have experience in Supply Chain Security using Machine Learning, Deep Learning, Reinforcement Learning, Personalized Itinerary Recommendation  Systems, Attrition Analysis and Real Life Big Data Analysis.  I developed accurate predictive models using advanced analytical methods, and implemented data-driven solutions to solve complex research and business problems. I'm passionate about cyber security, data science, machine learning, knowledge graphs, and recommendations. I have completed PhD from School of Computing Technology, RMIT University, Australia. 
 
 # Why 
 
